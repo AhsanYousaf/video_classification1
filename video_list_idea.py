@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  1 23:38:43 2021
 
-@author: rehan
+@author: Ahsan
 """
 import cv2
 from difflib import SequenceMatcher
